@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Folders
+/info
+
+# Output gifs
+*.gif
+
+# Data files
+*.dat
+*.txt
+
+# Vscode files
+tempCodeRunnerFile.py
